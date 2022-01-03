@@ -1,2 +1,10 @@
 # django-postgres-todo
-A todo using django bulma and postgresql
+
+
+##Todo using django, bootstrap  and postgresql.
+
+### In settings.py the config db.
+
+#By @SantyZck
+
+
